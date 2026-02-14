@@ -29,7 +29,10 @@ It was created as part of a database design project.
 ### Sample Data
 - Predefined groups, subjects, reasons, and statuses  
 - Example users, students, teachers, and administrators  
-- Sample grades, attendance, and schedules  
+- Sample grades, attendance, and schedules
+
+### Physical Diagram
+<img width="673" height="537" alt="Physical Diagram" src="https://github.com/user-attachments/assets/8c625c78-9e30-4f8f-9afd-b8ed6bf93cfc" />
 
 ## How to Use
 
